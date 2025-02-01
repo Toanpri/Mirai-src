@@ -17,13 +17,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "TNT",
-    "PREFIX": "!",
+    "BOTNAME": "Botngu",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "100090168070553"
+        "100047737175986"
     ],
     "NDH": [
-        "100090168070553"
+        "100047737175986"
     ],
     "version": "2.0.0"
 }
